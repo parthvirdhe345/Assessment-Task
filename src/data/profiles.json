@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "latitude": 19.0760,
+    "longitude": 72.8777,
+    "address": "Delhi",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Virat_Kohli_in_New_Delhi_in_December_2018.jpg",
+    "dob": "1987-09-18",
+    "email": "viratkohli@gmail.com",
+    "phoneNumber": "+18 123456789"
+  },
+  {
+    "id": 2,
+    "name": "Yash",
+    "latitude": 18.1792,
+    "longitude": 74.6078,
+    "address": "Bengaluru,India",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Yash_at_the_%E2%80%98KGF%E2%80%99_Press_Meet_In_Chennai_%28cropped%29.jpg",
+    "dob": "1980-12-12",
+    "email": "actoryash@gmail.com",
+    "phoneNumber": "+12 1234567890"
+  },
+  {
+    "id": 3,
+    "name": "Shah Rukh Khan",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "address": "New Delhi, India",
+    "profileImage": "https://filmfare.wwmindia.com/content/2023/dec/shahrukhkhan11703243433.jpg",
+    "dob": "1965-11-02",
+    "email": "srk@example.com",
+    "phoneNumber": "+91 1234567890"
+  },
+  {
+    "id": 4,
+    "name": "Lata Mangeshkar",
+    "latitude": 18.5204,
+    "longitude": 73.8567,
+    "address": "Pune, Maharashtra",
+    "profileImage": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Lata_Mangeshkar_-_still_29065_crop.jpg",
+    "dob": "1929-09-28",
+    "email": "latamangeshkar@gmail.com",
+    "phoneNumber": "+44 123456789"
+  },
+  {
+    "id": 5,
+    "name": "Sachin Tendulkar",
+    "latitude": 19.0760,
+    "longitude": 72.8777,
+    "address": "Mumbai, Maharashtra",
+    "profileImage": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOBBY-Z72Hke7_B7LRVjpGDTuBuhywL9hHrRaHeswgcnAuiFY_",
+    "dob": "1973-04-24",
+    "email": "sachin10@gmail.com",
+    "phoneNumber": "+1 1234567890"
+  }
+  
+]

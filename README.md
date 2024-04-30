@@ -1,0 +1,1 @@
+In this project, I have designed and implemented a web application using React framework. The application's primary focus is to provide users with a seamless experience for viewing profiles and interactively exploring their associated addresses on a map. 

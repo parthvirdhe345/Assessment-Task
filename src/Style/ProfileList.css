@@ -1,0 +1,59 @@
+/* ProfileList.css */
+
+/* Container style */
+.profile-list-container {
+    background-color: #f5f5f5; /* Light gray background color */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Shadow effect */
+  }
+  
+  /* Header style */
+  .profile-list-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  /* List style */
+  .profile-list-ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* List item style */
+  .profile-list-item {
+    background-color: #fff; /* White background color for list items */
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Box shadow effect */
+    display: flex;
+    justify-content: space-between; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    transition: background-color 0.3s, transform 0.3s; /* Smooth transition */
+  }
+  
+  /* Link style */
+  .profile-link {
+    text-decoration: none;
+    color: #007bff; /* Blue color for links */
+    font-weight: bold;
+  }
+  
+  /* Hover effect for list items */
+  .profile-list-item:hover {
+    background-color: #e0e0e0; /* Light gray background color on hover */
+    transform: scale(1.02); /* Slightly scale up on hover */
+    cursor: pointer;
+  }
+  
+  /* Information text style */
+  .profile-info {
+    font-size: 14px;
+    color: #777; /* Gray color for information text */
+  }
+  .sj{
+  color:#ff3434;
+  }
